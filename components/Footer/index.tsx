@@ -29,8 +29,7 @@ const Footer = () => {
                   />
                 </Link>
                 <p className="mb-9 text-base font-medium leading-relaxed text-body-color">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Integer lobortis.
+                  Stay informed, connect with our community, and take control of your financial future. Join us on social media, subscribe to our newsletter, and access valuable resources to empower your journey towards financial independence.
                 </p>
                 <div className="flex items-center">
                   <a
@@ -208,7 +207,7 @@ const Footer = () => {
         <div className="bg-primary/10 py-8">
           <div className="container">
             <p className="text-center text-base text-body-color dark:text-white">
-              Template by UIdeck and <a href="https://nextjstemplates.com" rel="nofollow noopener">Next.js Templates</a>
+              Website By <a href="https://tzfi.page" rel="nofollow noopener">Silver Tree Agency</a>
             </p>
           </div>
         </div>

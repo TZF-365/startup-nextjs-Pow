@@ -24,8 +24,8 @@ const AboutSectionOne = () => {
           <div className="-mx-4 flex flex-wrap items-center">
             <div className="w-full px-4 lg:w-1/2">
               <SectionTitle
-                title="Crafted for Startup, SaaS and Business Sites."
-                paragraph="The main ‘thrust’ is to focus on educating attendees on how to best protect highly vulnerable business applications with interactive panel discussions and roundtables."
+                title="Tailored for Financial Empowerment."
+                paragraph="Our primary mission is to educate and equip our community with the knowledge and tools to safeguard their financial well-being. Through engaging panel discussions and informative roundtables, we empower individuals from all backgrounds to protect their assets and thrive in a changing financial landscape."
                 mb="44px"
               />
 
@@ -35,15 +35,15 @@ const AboutSectionOne = () => {
               >
                 <div className="mx-[-12px] flex flex-wrap">
                   <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
-                    <List text="Premium quality" />
-                    <List text="Tailwind CSS" />
-                    <List text="Use for lifetime" />
+                    <List text="Uncompromising Quality" />
+                    <List text="PoW's Commitment to Financial Empowerment" />
+                    <List text="Built with Your Financial Future in Mind" />
                   </div>
 
                   <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
-                    <List text="Next.js" />
-                    <List text="Rich documentation" />
-                    <List text="Developer friendly" />
+                    <List text="Cutting-Edge Technology" />
+                    <List text="Extensive Knowledge Resources" />
+                    <List text="Empowering Financial Education" />
                   </div>
                 </div>
               </div>
