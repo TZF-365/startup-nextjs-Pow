@@ -1,6 +1,6 @@
 import Link from "next/link";
 import React from 'react';
-import VideoBackground from '/components/Video/VideoBackground';
+import VideoBackground from '../Video/VideoBackground';
 
 const Hero = () => {
   return (
