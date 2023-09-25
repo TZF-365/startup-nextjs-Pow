@@ -5,7 +5,7 @@ import VideoBackground from "../Video/VideoBackground";
 const Hero: React.FC = () => {
   return (
     <>
-      <VideoBackground /> {/* Place the VideoBackground component here */}
+ {/* Place the VideoBackground component here */}
       <section
         id="home"
         className="relative z-10 overflow-hidden pt-[120px] pb-16 md:pt-[150px] md:pb-[120px] xl:pt-[180px] xl:pb-[160px] 2xl:pt-[210px] 2xl:pb-[200px]"
