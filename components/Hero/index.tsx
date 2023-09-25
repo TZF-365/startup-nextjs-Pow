@@ -1,5 +1,6 @@
 import Link from "next/link";
 import React from 'react';
+import VideoBackground from '/components/Video/VideoBackground';
 
 const Hero = () => {
   return (
@@ -21,6 +22,7 @@ const Hero = () => {
                 <p className="mb-12 text-base font-medium !leading-relaxed text-body-color dark:text-white dark:opacity-90 sm:text-lg md:text-xl">
                 We envision a world where financial power is decentralized, where individuals have control over their assets and financial decisions. Our commitment is to guide you on this journey towards financial sovereignty.
                 </p>
+                <VideoBackground />
                 <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
                   <Link
                     href="https://nextjstemplates.com/templates/saas-starter-startup"
