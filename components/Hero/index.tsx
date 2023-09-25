@@ -5,12 +5,12 @@ import VideoBackground from '../Video/VideoBackground';
 const Hero = () => {
   return (
     <>
-    <VideoBackground />
       <section
         id="home"
         className="relative z-10 overflow-hidden pt-[120px] pb-16 md:pt-[150px] md:pb-[120px] xl:pt-[180px] xl:pb-[160px] 2xl:pt-[210px] 2xl:pb-[200px]"
       >
         <div className="container">
+        <VideoBackground />
           <div className="-mx-4 flex flex-wrap">
             <div className="w-full px-4">
               <div
@@ -23,7 +23,6 @@ const Hero = () => {
                 <p className="mb-12 text-base font-medium !leading-relaxed text-body-color dark:text-white dark:opacity-90 sm:text-lg md:text-xl">
                 We envision a world where financial power is decentralized, where individuals have control over their assets and financial decisions. Our commitment is to guide you on this journey towards financial sovereignty.
                 </p>
-                <VideoBackground />
                 <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
                   <Link
                     href="https://nextjstemplates.com/templates/saas-starter-startup"
