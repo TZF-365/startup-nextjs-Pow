@@ -24,7 +24,7 @@ const AboutSectionTwo = () => {
                   Dedicated Assistance
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                  We're here to provide unwavering support, guiding you through your financial journey every step of the way.
+                  We are here to provide unwavering support, guiding you through your financial journey every step of the way.
                 </p>
               </div>
               <div className="mb-9">
@@ -40,7 +40,7 @@ const AboutSectionTwo = () => {
                   Seamless Integration
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                  Experience a frictionless financial journey with code that's as smooth as it is secure.
+                  Experience a frictionless financial journey with code that is as smooth as it is secure.
                 </p>
               </div>
             </div>
