@@ -49,11 +49,11 @@ const Video = () => {
       </div>
 
       <ModalVideo
-        channel="youtube"
+        channel="Big Think"
         autoplay={true}
         start={true}
         isOpen={isOpen}
-        videoId="L61p2uyiMSo"
+        videoId="ugIuHWc6Nuc"
         onClose={() => setOpen(false)}
       />
 
