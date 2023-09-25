@@ -3,13 +3,13 @@ import { Menu } from "@/types/menu";
 const menuData: Menu[] = [
   {
     id: 1,
-    title: "Home",
+    title: "Events",
     path: "/",
     newTab: false,
   },
   {
     id: 2,
-    title: "Pow Series",
+    title: "Pow Ecosystem",
     path: "/about",
     newTab: false,
   },
@@ -62,7 +62,7 @@ const menuData: Menu[] = [
       },
       {
         id: 46,
-        title: "Savcur Brands",
+        title: "Quantum Investment Spiral",
         path: "/signin",
         newTab: false,
       },
@@ -89,36 +89,6 @@ const menuData: Menu[] = [
         id: 53,
         title: "Blog Grid Page",
         path: "/blog",
-        newTab: false,
-      },
-      {
-        id: 54,
-        title: "Blog Sidebar Page",
-        path: "/blog-sidebar",
-        newTab: false,
-      },
-      {
-        id: 55,
-        title: "Blog Details Page",
-        path: "/blog-details",
-        newTab: false,
-      },
-      {
-        id: 56,
-        title: "Sign In Page",
-        path: "/signin",
-        newTab: false,
-      },
-      {
-        id: 57,
-        title: "Sign Up Page",
-        path: "/signup",
-        newTab: false,
-      },
-      {
-        id: 58,
-        title: "Error Page",
-        path: "/error",
         newTab: false,
       },
     ],
