@@ -6,7 +6,7 @@ const ContactPage = () => {
     <>
       <Breadcrumb
         pageName="Contact Page"
-        description="We're here to assist you on your journey to financial empowerment and security. Whether you have questions, feedback, or simply want to connect, don't hesitate to get in touch with us. Reach out to Principles of Wealth through the following channels:S"
+        description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. In varius eros eget sapien consectetur ultrices. Ut quis dapibus libero."
       />
 
       <Contact />
