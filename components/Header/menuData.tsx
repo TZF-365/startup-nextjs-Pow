@@ -10,7 +10,7 @@ const menuData: Menu[] = [
   {
     id: 2,
     title: "Pow Ecosystem",
-    path: "/about",
+    path: "/pow-ecosystem",
     newTab: false,
   },
   {
